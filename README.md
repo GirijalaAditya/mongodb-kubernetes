@@ -1,5 +1,3 @@
-# mongodb-kubernetes
-
 # MongoDB Kubernetes
 
 ```t
